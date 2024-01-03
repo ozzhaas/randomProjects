@@ -1,0 +1,401 @@
+﻿Caller reports that they can not call in or out at Stiles Point the phones do not have dial tones. When dialing in the technician only gets a busy signal. Mrs. Webster reported that a technician from AT&T was out working at the school yesterday.; Phones Down at Stiles Point; 80407; AT&T repaired the PRI circuit.; Stiles Point Elementary; 1/17/2019 11:09; Stiles Point Elementary; 134065
+Caller reports that they can not call in or out at Stiles Point the phones do not have dial tones. When dialing in the technician only gets a busy signal. Mrs. Webster reported that a technician from AT&T was out working at the school yesterday.; Phones Down at Stiles Point; 80428; Smart jack is dead and there is no dial tone present on 795-1040 and 795-1041. AT&T has been informed.; Stiles Point Elementary; 1/17/2019 9:58; Stiles Point Elementary; 134065
+"**CALLER STATES THE ISSUE HAS RETURNED**
+**Sharon Randall- 9708468865 *GOOD CONTACT NUMBER**
+**TESTED AGAIN AND RINGING BUST AGAIN SAME AS THIS MORNING ON OUR END HERE AT HELP DESK**
+No incoming/outgoing calls. Caller tested while the technician was on the phone and internal calls are still working from the office to classrooms and vice versa.
+
+Attempted call from tech to school results in an immediate busy signal.";  Phone systems are down.;  82677;  Vendor repaired issues with the phone lines to the school.;  Belle Hall Elementary; 2/6/2019 7:57; Belle Hall Elementary; 137684
+"No incoming/outgoing calls. Caller tested while the technician was on the phone and internal calls are still working from the office to classrooms and vice versa.
+
+Attempted call from tech to school results in an immediate busy signal."; Phone systems are down.; 82516; Lines are repaired.; Belle Hall Elementary; 2/4/2019 9:18; Belle Hall Elementary; 137684
+"No incoming/outgoing calls. Caller tested while the technician was on the phone and internal calls are still working from the office to classrooms and vice versa.
+
+Attempted call from tech to school results in an immediate busy signal."; Phone systems are down.; 82525; Phones lines working upon arrival. Performed several test calls in bound and outbound. Checked all lines at d-mark location. All lines up and running; Belle Hall Elementary; 2/4/2019 9:14; Belle Hall Elementary; 137684
+"843-937-6300  is the number dialed from Jimmie's cell phone.  Believe this was previously communicated.
+
+When Mrs. Williams calls in to calhoun via her cell phone it doesn't ring at all. Eventually the call ends. The same thing happens when the technician calls in via Cell Phone but not land line. Jimmie Teal's cell phone returned the same response. Two of caller's colleagues are having the same issues. 
+
+Other reports are coming in of dropped calls to Calhoun see Incident 139062."; Calhoun Dropped Incoming Calls; 83286; Closing duplicate Task assignment.; Calhoun; 2/8/2019 14:46; Calhoun; 139067
+"When Mrs. Williams calls in to calhoun via her cell phone it doesn't ring at all. Eventually the call ends. The same thing happens when the technician calls in via Cell Phone but not land line. Jimmie Teal's cell phone returned the same response. Two of caller's colleagues are having the same issues. 
+
+Other reports are coming in of dropped calls to Calhoun see Incident 139062."; Calhoun Dropped Incoming Calls; 83277; Made several changes in the switch for local and long distance calling and calls.; Calhoun; 2/8/2019 14:45; Calhoun; 139067
+"West Ashley High cannot make calls in or out. Phones display that they are restarting but never finish. When calling the main line to the school and selecting 0 the call goes to voicemail.
+Additionally network connectivity is down at parts of the building."; West Ashley HS - Phones down and network down; 84072; Jason repaired the switches.; West Ashley High; 2/14/2019 13:16; West Ashley High; 140413
+"West Ashley High cannot make calls in or out. Phones display that they are restarting but never finish. When calling the main line to the school and selecting 0 the call goes to voicemail.
+Additionally network connectivity is down at parts of the building."; West Ashley HS - Phones down and network down; 84073; Reconfigured switches for network access.; West Ashley High; 2/14/2019 10:01; West Ashley High; 140413
+"School is not receiving incoming calls. A fast busy signal is received when calling the school. They can make outgoing calls.
+Main # 843-724-7789"; Simmons-Pinckmey Middle - No incoming calls; 85906; Phone outage at Mary Ford Wando Burke Hursey Simmons Pinckney and Calhoun.  Avaya technical support (Earle) remotely was able to bring all the sites back online.; Simmons-Pinckney Middle; 3/1/2019 11:06; Simmons-Pinckney Middle; 143624
+"School is not receiving incoming calls. A fast busy signal is received when calling the school. They can make outgoing calls.
+Main # 843-724-7789"; Simmons-Pinckmey Middle - No incoming calls; 85903; Network tech worked with Avaya tech to get schools working.; Simmons-Pinckney Middle; 3/1/2019 10:49; Simmons-Pinckney Middle; 143624
+Mrs. McCumming's phone has no display. Marty called in to report this as a pri1.; No Display; 86249; Econ field tech resolved issue; Calhoun; 3/5/2019 9:30; Calhoun; 144208
+Mrs. McCumming's phone has no display. Marty called in to report this as a pri1.; No Display; 86248; Plugged phone back in and verified with Virginia it is working properly now.; Calhoun; 3/5/2019 8:18; Calhoun; 144208
+Mrs. McCumming's phone has no display. Marty called in to report this as a pri1.; No Display; 86244; Gave to Will but Evan was able to fix it.; Calhoun; 3/5/2019 8:18; Calhoun; 144208
+No calls are going in or out throughout all of Carolina Park. Main line: 843-856-8060.; No calls in or out; 87975; Phones working upon arrival. Performed test calls inbound and outbound. Working fine; Carolina Park Elementary; 3/19/2019 10:14; Carolina Park Elementary; 147064
+No calls are going in or out throughout all of Carolina Park. Main line: 843-856-8060.; No calls in or out; 87952; Assigning to Will.   PRI Circuit looks good remotely.; Carolina Park Elementary; 3/19/2019 10:07; Carolina Park Elementary; 147064
+The CCSD Security Office and Charleston County Sheriff's office have requested contact + guardian info for Stall HS 9th grader Ja'quinn Smith as well as the locking of the student's accounts (Google and Active Directory) to preserve evidence.; "Stall HS student ""porn stored in CCSD account"" investigation for Sheriff's Office"; 88303; Both AD and Google account are still disabled.  Another workorder can be opened when the accounts need to be reactivated.; Bridgeview; 6/13/2019 13:36; Bridgeview; 147662
+The CCSD Security Office and Charleston County Sheriff's office have requested contact + guardian info for Stall HS 9th grader Ja'quinn Smith as well as the locking of the student's accounts (Google and Active Directory) to preserve evidence.; "Stall HS student ""porn stored in CCSD account"" investigation for Sheriff's Office"; 88305; still no word on completion from NCPD - CCSD Security Office is continuing to monitor and will let I.T. know when it is OK to unlock the student's Google account.; Bridgeview; 6/13/2019 13:31; Bridgeview; 147662
+843-571-2424. When a call is connected all that is heard on either end is Static; Main number unable to take/make calls; 88583; Vendor repaired the bad phone line to the building.; West Ashley Head Start; 4/3/2019 10:01; West Ashley Head Start; 148160
+843-571-2424. When a call is connected all that is heard on either end is Static; Main number unable to take/make calls; 88617; Checked line at d-mark. No dial tone passed information to marty to create a trouble ticket with vendor.; West Ashley Head Start; 4/1/2019 14:18; West Ashley Head Start; 148160
+843-571-2424. When a call is connected all that is heard on either end is Static; Main number unable to take/make calls; 88618; check line at d-mark.no dial tonepassed information to marty to create a trouble ticket with vendor; West Ashley Head Start; 4/1/2019 14:17; West Ashley Head Start; 148160
+Employee Self Service website is returning a Runtime Server Error.; ESS Inaccessible District Wide; 90454; ESS is back up and running per TylerTech's communication; Infrastructure  Technology; 4/15/2019 13:30; Infrastructure  Technology; 151223
+www.ccsdschools.com is not loading properly.; CCSDSchools Website - Not Loading; 90461; Website fully operational.; Infrastructure  Technology; 4/16/2019 9:53; Infrastructure  Technology; 151233
+Lost 2 drives.  Server is down.; Stono park\Dist 10 Server Is Down; 95225; Spun up new server verified connectivity.; Stono Park Elementary; 5/22/2019 10:17; Stono Park Elementary; 158613
+Lost 2 drives.  Server is down.; Stono park\Dist 10 Server Is Down; 95224; Created DHCP Scopes for Dist10 Office.; Stono Park Elementary; 5/22/2019 9:30; Stono Park Elementary; 158613
+Caller states they are unable to make or receive calls throughout the school. Tested with multiple extensions. Gets a dial tone but does not ring through.; Unable to Make or Receive Calls Throughout School; 100971; AT&T repaired issue with the PRI Circuit.; West Ashley High; 8/5/2019 14:47; West Ashley High; 168515
+Caller states they are unable to make or receive calls throughout the school. Tested with multiple extensions. Gets a dial tone but does not ring through.; Unable to Make or Receive Calls Throughout School; 100974; Inspected PRI circuit. Circuit down. Alerted Telecom engineers about issue.; West Ashley High; 8/5/2019 11:30; West Ashley High; 168515
+"8437690346- No ringing or busy signal when attempted by technician.
+8435564182- Busy ring when calling in from technician.
+Caller states that all calls coming into these numbers are not making it into the building. Attempts to call in by tech were met with two different errors but neither call was successful."; Incoming calls not coming through.; 105737; "replaced Cisco 3850 in TR3 @ Montessori.  This switch provided the link to Springfield's IP Office.
+
+Service restored"; Montessori Community School; 8/27/2019 6:36; Montessori Community School; 177892
+"8437690346- No ringing or busy signal when attempted by technician.
+8435564182- Busy ring when calling in from technician.
+Caller states that all calls coming into these numbers are not making it into the building. Attempts to call in by tech were met with two different errors but neither call was successful."; Incoming calls not coming through.; 105594; Worked with Ryan to resolve issue and to show troubleshooting processes.; Montessori Community School; 8/26/2019 14:57; Montessori Community School; 177892
+"**Per April Lee_
+
+Please reassign to IT.  This is an issue outside Mary Anna's and my control.
+
+Target: 8/26/2019 2:47:07 PM (UTC -05:00) - America/New_York
+Summary: 502 Error trying to get into Data Central
+Details:
+Data Central is giving the following error trying to log in from the Portal or refreshing the page.
+
+502 - Web server received an invalid response while acting as a gateway or proxy server.
+ 
+---------
+Data Central is giving the following error trying to log in from the Portal or refreshing the page.
+502 - Web server received an invalid response while acting as a gateway or proxy server."; 502 Error trying to get into Data Central; 106236; We had to restart the service on the CF server.; Calhoun; 8/28/2019 8:47; Calhoun; 178043
+"Data Central is giving the following error trying to log in from the Portal or refreshing the page.
+
+502 - Web server received an invalid response while acting as a gateway or proxy server."; 502 Error trying to get into Data Central; 105695; "Please reassign to IT.  This is an issue outside Mary Anna's and my control.
+
+Target: 8/26/2019 2:47:07 PM (UTC -05:00) - America/New_York
+Summary: 502 Error trying to get into Data Central
+Details:
+Data Central is giving the following error trying to log in from the Portal or refreshing the page.
+
+502 - Web server received an invalid response while acting as a gateway or proxy server."; Calhoun; 8/28/2019 7:17; Calhoun; 178043
+"Phone lines and internet are down at Mary Ford front office and SRO are reporting that it is for the entire school. When calling the main number and hitting 0 for operator it goes straight to voicemail. Unable to remote into the SRO's IP address. Various nodes are red in Orion.
+
+10.50.24.107"; MFES - Phones and Internet Down; 106302; Corrected switch issues; Mary Ford Elementary; 8/28/2019 10:49; Mary Ford Elementary; 179176
+"Phone lines and internet are down at Mary Ford front office and SRO are reporting that it is for the entire school. When calling the main number and hitting 0 for operator it goes straight to voicemail. Unable to remote into the SRO's IP address. Various nodes are red in Orion.
+
+10.50.24.107"; MFES - Phones and Internet Down; 106303; Corrected switch issues; Mary Ford Elementary; 8/28/2019 10:49; Mary Ford Elementary; 179176
+"Customer reports phones offline. 
++ Attempted to contact. Main line rang one time then went to voicemail."; Phones Not Functioning; 107320; Worked with tech to resolve issue with vmail and phone server.; Sullivan's Island Elementary; 9/9/2019 12:58; Sullivan's Island Elementary; 181082
+"Customer reports phones offline. 
++ Attempted to contact. Main line rang one time then went to voicemail."; Phones Not Functioning; 107387; switches had to be reconfigured by networking team. None of the phones in the school were working; Sullivan's Island Elementary; 9/9/2019 9:10; Sullivan's Island Elementary; 181082
+"No inbound or outbound calls to the school. Caller gets dial tone but phone says their waiting for open line.
+Front office phone: 843-887-5037
+School's main number: 843-723-0863"; No Inbound or Outbound; 107503; Assisted Marty with troubleshooting. Successfully able to make calls now.; St. James-Santee Elementary; 9/9/2019 12:57; St. James-Santee Elementary; 181238
+"No inbound or outbound calls to the school. Caller gets dial tone but phone says their waiting for open line.
+Front office phone: 843-887-5037
+School's main number: 843-723-0863"; No Inbound or Outbound; 107394; Worked with vendor and field tech to resolve issue with calls and vmail.; St. James-Santee Elementary; 9/9/2019 12:56; St. James-Santee Elementary; 181238
+Customer reports that all attempts to contact any of the phones via their extension numbers results in busy tones.; All Phone Reporting Busy Tone; 107399; Worked with field tech to resolve issue with phones not logged in.; Murray-LaSaine Elementary; 9/9/2019 12:56; Murray-LaSaine Elementary; 181246
+Customer reports that all attempts to contact any of the phones via their extension numbers results in busy tones. Customer is unable to call out or into the school.; All Phones Reporting Busy Tone; 107501; With the principal’s help we did walk through and disconnect and reconnected all phones. Verified they’re all connected correctly.; Murray-LaSaine Elementary; 9/9/2019 12:43; Murray-LaSaine Elementary; 181246
+"""DHCP... searching message"" on displays. User reports phones have been down since the power outage of 9/10"; No Phones School-wide; 108169; Reset 13 made call to front office. All services up.; North Charleston Creative Arts Elementary; 9/11/2019 11:09; North Charleston Creative Arts Elementary; 182639
+"""DHCP... searching message"" on displays. User reports phones have been down since the power outage of 9/10"; No Phones School-wide; 108091; Miles repaired the network switch that was down affecting phones.; North Charleston Creative Arts Elementary; 9/11/2019 8:52; North Charleston Creative Arts Elementary; 182639
+Submitting ticket for a phone outage at Minnie Hughes.; Phones Down; 111995; located bad switch in MTR. Notified jason for replacement.; Minnie Hughes Elementary; 9/30/2019 13:03; Minnie Hughes Elementary; 189566
+Submitting ticket for a phone outage at Minnie Hughes.; Phones Down; 112005; Replaced failed switch. Installed switch software. Configured switch for network traffic.; Minnie Hughes Elementary; 9/30/2019 12:13; Minnie Hughes Elementary; 189566
+Main office phone lines are blank and no dial tone is given. When calling the main line it rings many many times before the options menu is heard. After pressing 0 for the front office the line is transferred to the parent liaison line.; Deer Park - Main Office Phones are Dead; 113418; reset switch in TR 2. everything came back up including phones time clock and door monitors; Deer Park Middle; 10/7/2019 8:42; Deer Park Middle; 191853
+Main office phone lines are blank and no dial tone is given. When calling the main line it rings many many times before the options menu is heard. After pressing 0 for the front office the line is transferred to the parent liaison line.; Deer Park - Main Office Phones are Dead; 113389; Bradley and Martin K. reset the Cisco 3750 switch in rack.   Main office came back up.; Deer Park Middle; 10/7/2019 8:28; Deer Park Middle; 191853
+The CCSD Internet connection and CCSD Filter Authentication feature are unstable district wide. Network technicians are aware and working on this issue at this time.; The CCSD Internet connection and CCSD Filter Authentication are unstable District Wide; 114453; The filter has been stable for several days now.; C E Williams Middle; 10/23/2019 13:35; C E Williams Middle; 192405
+The CCSD Internet connection and CCSD Filter Authentication feature are unstable district wide. Network technicians are aware and working on this issue at this time.; The CCSD Internet connection and CCSD Filter Authentication are unstable District Wide; 114228; Filter is authenticating users now; C E Williams Middle; 10/10/2019 14:37; C E Williams Middle; 192405
+The CCSD Internet connection and CCSD Filter Authentication feature are unstable district wide. Network technicians are aware and working on this issue at this time.; The CCSD Internet connection and CCSD Filter Authentication are unstable District Wide; 113631; This was due to filter issues that have been resolved.; C E Williams Middle; 10/10/2019 6:15; C E Williams Middle; 192405
+Customer reports that the switchboard at Burke High is down - busy signal.; Switchboard Down - Busy Signal; 113708; Worked with Marty over the phone and restarted the VM panel. Marty tested issue resolved.; Burke High; 10/8/2019 9:44; Burke High; 192537
+Customer reports that the switchboard at Burke High is down - busy signal.; Switchboard Down - Busy Signal; 113670; Re-Assigning per marty; Burke High; 10/8/2019 9:40; Burke High; 192537
+"Various customers across the district have lost internet access 20-30 minutes ago. Help desk is able to remotely access the machine so it is still connected to the network. 
+Locations identified thus far: 
+Liberty Hill
+Sanders-Clyde
+Bview
+Baptist Hill
+James B Edwards
+Mt. Zion"; Internet Access Lost for Various Users District-Wide; 115628; Failed iBoss over connectivity restored.; Liberty Hill Academy; 10/18/2019 15:34; Liberty Hill Academy; 195917
+"Various customers across the district have lost internet access 20-30 minutes ago. Help desk is able to remotely access the machine so it is still connected to the network. 
+Locations identified thus far: 
+Liberty Hill
+Sanders-Clyde
+Bview
+Baptist Hill
+James B Edwards
+Mt. Zion"; Internet Access Lost for Various Users District-Wide; 115629; Resolved via iBoss shutdown.; Liberty Hill Academy; 10/18/2019 15:34; Liberty Hill Academy; 195917
+"Various customers across the district have lost internet access 20-30 minutes ago. Help desk is able to remotely access the machine so it is still connected to the network. 
+Locations this far: 
+Liberty Hill
+Sanders-Clyde
+Bview
+Baptist Hill
+James B. Edwards
+Mt. Zion"; Internet Access Lost for Various Users District-Wide; 115620; Resolved via iBoss shutdown.; Liberty Hill Academy; 10/18/2019 15:33; Liberty Hill Academy; 195917
+"Wando No internet.
+
+No phone service:
+Charles Pinckney Elementary
+Burke High
+Simmons-Pinckney Middle
+Wando CAS
+Baptist Hill High"; No internet at Wando phones being effected at several locations as well.; 127108; "Per Derek:[2:42 PM] Alfred Croucher
+    AT&T resolved issue involving fiber equipment"; Wando High; 1/27/2020 14:43; Wando High; 216129
+"Wando No internet.
+
+No phone service:
+Charles Pinckney Elementary
+Burke High
+Simmons-Pinckney Middle
+Wando CAS
+Baptist Hill High"; No internet at Wando phones being effected at several locations as well.; 127109; Vendor restored service to ASE circuit.; Wando High; 1/27/2020 14:36; Wando High; 216129
+Phone lines down at Harbor View no inbound or outbound calls possible. AT&T has been notified. Will White has assessed situation.; Phone Lines Down; 132020; AT&T repaired the PRI circuit.   Moisture in the outside cabling to the school.; Harbor View Elementary; 3/3/2020 14:26; Harbor View Elementary; 225029
+Phone lines down at Harbor View no inbound or outbound calls possible. AT&T has been notified. Will White has assessed situation.; Phone Lines Down; 132019; Performed onsite visit and located no lights on AT&T circuit smart jack connecting to phone system. Performed reset of card and still no lights. AT&T technician arrived and located problem. Circuit is currently up and running. Performed several calls inbound and outbound. Phone system service and phones up and running.; Harbor View Elementary; 3/3/2020 12:36; Harbor View Elementary; 225029
+Leslie Hargrove (Public Safety Officer) reporting Phone & Internet went down at CE Williams South on Sanders Rd. School contacted Public Safety Officer via radio & reported that this was the second time that it had went down this morning.; Network Down; 158960; Server was gone through over the weekend to ensure schools connection no longer drops; C E Williams South Middle; 11/23/2020 8:14; C E Williams South Middle; 284369
+Leslie Hargrove (Public Safety Officer) reporting Phone & Internet went down at CE Williams South on Sanders Rd. School contacted Public Safety Officer via radio & reported that this was the second time that it had went down this morning.; Network Down; 159413; Performed reboot of core switch. Internet is back up; C E Williams South Middle; 11/19/2020 8:33; C E Williams South Middle; 284369
+Leslie Hargrove (Public Safety Officer) reporting Phone & Internet went down at CE Williams South on Sanders Rd. School contacted Public Safety Officer via radio & reported that this was the second time that it had went down this morning.; Network Down; 159217; Network appears to be up. Cienna link is up. Ports in question for people having issues were ok (No Dropped Frames). Did notice that the LAG port groups were dynamically recreating themselves due to lag expiration. Will have to look into it outside of school hours. JC 11/18/2020; C E Williams South Middle; 11/18/2020 10:03; C E Williams South Middle; 284369
+"schoolwide internet outtage outtage
+
+looks like 8 schools are going down due to fiber cut recently.  Our Netops team is aware of this issue and the correct teams are notified already."; schoolwide internet outtage - fiber cut issue; 178505; At&t completed repairs again; Zucker (Jerry) Middle; 4/23/2021 16:46; Zucker (Jerry) Middle; 324079
+"schoolwide internet outtage outtage
+
+looks like 8 schools are going down due to fiber cut recently.  Our Netops team is aware of this issue and the correct teams are notified already."; schoolwide internet outtage - fiber cut issue; 178252; At&t has completed fiber repair; Zucker (Jerry) Middle; 4/23/2021 10:59; Zucker (Jerry) Middle; 324079
+"***8Issue still remains***
+
+Error: An error occurred while locating the user account LDAP server. Please specify the correct credentials to connect in the context configuration or enable anonymous binds. Support Code: SE-54-VJ. Password was just reset in a previous ticket and this is the error that just popped up. Appears to be district wide."; Enrich; 192834; This was due to CCSD-AD-S1 going offline.  Had Enrich change the server it used for LDAP.; Calhoun; 8/12/2021 7:10; Calhoun; 344542
+Error: An error occurred while locating the user account LDAP server. Please specify the correct credentials to connect in the context configuration or enable anonymous binds. Support Code: SE-54-VJ. Password was just reset in a previous ticket and this is the error that just popped up. Appears to be district wide.; Enrich; 192554; LDAP account for Enrich had the wrong information.  Corrected the issue with Enrich and LDAP authentication worked; Calhoun; 8/10/2021 10:49; Calhoun; 344542
+"When attempting to connecting to the internet getting an error saying cannot reach this site. In email and a popup comes up saying will reconnect in so so amount of seconds but will never connect. When try other sites it is saying sites cannot be reached. Went to command prompt and pinged 8.8.8.8 got a complete packet loss. Other users are having the same problem. 
+
+Per Ryan: this circuit is back down.   Contacting AT&T to re-open existing ticket OQ091527"; Not able to connect to the internet; 201824; AT&T fiber cut repaired.  Circuit back online as of 445am; Stiles Point Elementary; 9/9/2021 6:30; Stiles Point Elementary; 359737
+When attempting to connecting to the internet getting an error saying cannot reach this site. In email and a popup comes up saying will reconnect in so so amount of seconds but will never connect. When try other sites it is saying sites cannot be reached. Went to command prompt and pinged 8.8.8.8 got a complete packet loss. Other users are having the same problem.; Not able to connect to the internet; 201615; AT&T repaired damaged fiber by the road leading to school.; Stiles Point Elementary; 9/7/2021 16:02; Stiles Point Elementary; 359737
+Per Miles Keener the network is down at all John's Island schools. AT&T is being notified.; John's Island Schools - Network Down; 214787; At&t completed fiber repair. Schools are back up.; St. John's High; 11/4/2021 8:14; St. John's High; 379690
+Per Miles Keener the network is down at all John's Island schools. AT&T is being notified.; John's Island Schools - Network Down; 214802; All circuit are up and operational after fiber repair; St. John's High; 11/4/2021 6:30; St. John's High; 379690
+"Caller's wifi has dropped off the network. Cponnected to reg ran gpupdate rebooted. Still can't connect to ccsd_user. CCSD_Access is not working either for many users and it is throwing a certificate error. 
+000116008 - GMHH3D3
+10.122.192.164"; Dropping Wifi; 223735; Multiple issues including a CERT server that didn't want to believe that it was a certificate authority and a cert that didn't want to import into packetfence.  End result: its fixed.  All of it.  All fixed.  Hooray.; Academic Magnet High; 1/14/2022 12:25; Academic Magnet High; 392043
+"Caller's wifi has dropped off the network. Cponnected to reg ran gpupdate rebooted. Still can't connect to ccsd_user. CCSD_Access is not working either for many users and it is throwing a certificate error. 
+000116008 - GMHH3D3
+10.122.192.164"; Dropping Wifi; 223734; Multiple issues including a CERT server that didn't want to believe that it was a certificate authority and a cert that didn't want to import into packetfence.  End result: its fixed.  All of it.  All fixed.  Hooray.; Academic Magnet High; 1/14/2022 12:13; Academic Magnet High; 392043
+"Caller's wifi has dropped off the network. Cponnected to reg ran gpupdate rebooted. Still can't connect to ccsd_user. 
+000116008 - GMHH3D3
+10.122.192.164"; Dropping Wifi; 223452; This was caused by a server certificate issue and has been resolved; Academic Magnet High; 1/10/2022 6:36; Academic Magnet High; 392043
+"Caller's wifi has dropped off the network. Cponnected to reg ran gpupdate rebooted. Still can't connect to ccsd_user. CCSD_Access is not working either for many users and it is throwing a certificate error. 
+000116008 - GMHH3D3
+10.122.192.164"; Dropping Wifi; 223732; "Worked with Miles Ryan and Packetfencse support on a Marathon WebEx call to troubleshoot the expired 802.1x certificate.  
+
+Also - the Root Certificate Authority that issued the certificate got deactivated (by Shawn?) and the Root CA got moved to RODC-S1 which is not capable of doing all CA functions we needed.
+
+Had to migrate to anotehr srver and make it the root CA - took lots of troubleshooting and consulting online forums documentation etc.
+
+Finally got it working."; Academic Magnet High; 1/7/2022 14:11; Academic Magnet High; 392043
+"**Per Lee Hargrove in security the issue has returned.**
+
+Called in by Security who received report over the radio. ""Waiting for line"" on display. Message when to dial out. School is able to receive calls and does have internet.
+843-452-4648"; HVES- Harbor View unable to make outside calls; 229500; Went to school and found the PRI bouncing at the AT&T Smart Jack.   Reported issue to AT&T and AT&T tech repaired it.; Harbor View Elementary; 2/11/2022 8:18; Harbor View Elementary; 401296
+"Called in by Security who received report over the radio. ""Waiting for line"" on display. Message when to dial out. School is able to receive calls and does have internet.
+843-452-4648"; HVES- Harbor View unable to make outside calls; 229462; Confirmed with the school that all phones were operational; Harbor View Elementary; 2/9/2022 11:10; Harbor View Elementary; 401296
+"Was able to get user printing by installing entry for
+""slnxds2server"" (2 rather than 1).
+User's computer is available daily for troubleshooting from 2pm-3pm"; PES4- Unable to print to Ricoh Secure Print Jobs not showing up at Printer; 244942; "Participated in multiple multi-hour troubleshooting Zoom calls multiple status update calls multiple phone calls with Stevens Adams and Ron Godbey etc. responding to many emails etc.  
+
+Much of the trouble consisted of Ricoh getting their side of the VPN tunnel working as well as Ricoh not giving us a complete list of network ports."; Pepperhill Elementary; 5/24/2022 13:53; Pepperhill Elementary; 422453
+"Was able to get user printing by installing entry for
+""slnxds2server"" (2 rather than 1).
+User's computer is available daily for troubleshooting from 2pm-3pm"; PES4- Unable to print to Ricoh Secure Print Jobs not showing up at Printer; 244943; Helped with troubleshooting.; Pepperhill Elementary; 5/16/2022 14:58; Pepperhill Elementary; 422453
+"Main line  of the school is unable to take calls
+main line phone number: 843-767-5914
+Ms. smalls call back number: 8439060045"; HPES- Hunley Park is unable to take incoming calls; 253292; Tested icoming calls to main number. Main number programmed to only go to extension 1000. Worked with marty who added extension 1010 as a hunt group member.; Hunley Park Elementary; 7/21/2022 9:05; Hunley Park Elementary; 435810
+"Main line  of the school is unable to take calls
+main line phone number: 843-767-5914
+Ms. smalls call back number: 8439060045"; HPES- Hunley Park is unable to take incoming calls; 253294; Added user to Hunt Group and ended calls to the General Mailbox Ext# 1111.; Hunley Park Elementary; 7/21/2022 9:01; Hunley Park Elementary; 435810
+"User states PA not working can't communicate with staff over intercom.
+No way to make school-wide announcements."; MFES- PA System Down; 259883; Reset device and tested the Paging.; Mary Ford Early Learning and Family Center; 8/24/2022 15:00; Mary Ford Early Learning and Family Center; 448807
+"User states PA not working can't communicate with staff over intercom.
+No way to make school-wide announcements."; MFES- PA System Down; 259837; Dispatched to the correct team; Mary Ford Early Learning and Family Center; 8/24/2022 9:23; Mary Ford Early Learning and Family Center; 448807
+"(Submitted via Self Service)
+Unable to call the Help Desk. Line rings. but nothing answers.
+
+
+
+***This is indeed happening the help desk line is currently down and being worked on at this time."; CEWS- (SS) Unable to call the help desk. The line doesn't ring; 271394; Segra ticket was submitted for area outage.  Issue was resolved later in the day by Segra with no RFO given.; C E Williams South Middle; 10/20/2022 14:26; C E Williams South Middle; 472814
+"(Submitted via Self Service)
+Unable to call the Help Desk. The line does not ring.
+
+
+***This is indeed happening the help desk line is down at this time and being worked on at this moment."; CEWS- (SS) Unable to call the help desk. The line doesn't ring; 271389; Help desk is down momentarily for a short period of time.; C E Williams South Middle; 10/19/2022 7:53; C E Williams South Middle; 472814
+"Customer reports that there is no internet or phones at the school orion is red. Customer checked library and several other rooms to confirm.
+
+Anthony Rodriquez would like an email or phone call:
+ANTHONY_RODRIGUEZ@charleston.k12.sc.us
+843-200-7562"; AOES- Network connectivity issues/Phone issues; 285154; Completed (a 2nd time) by resetting the core router.; Angel Oak Elementary; 1/25/2023 14:48; Angel Oak Elementary; 499611
+Customer reports that there is no internet or phones at the school orion is red. Customer checked library and several other rooms to confirm.; AOES- Network connectivity issues/Phone issues; 285097; Cristian Toscano field tech on Johns Island investigated the outage and found that the Ciena box on the wall had lost power.  Once resolved the school regained phone and internets.; Angel Oak Elementary; 1/24/2023 13:35; Angel Oak Elementary; 499611
+network down today - TTC palmer campus is down at the location - all red in orion; ECHS- Early college HS TTC campus down; 290008; The UPS was replaced; Early College High School; 2/22/2023 14:55; Early College High School; 509379
+network down today - TTC palmer campus is down at the location - all red in orion; ECHS- Early college HS TTC campus down; 290010; The network went down at the palmer campus. I went and got a brand new UPS device. I checked the old ups device and it was on its last leg. I swapped out the old for the new. The device slowly came up.; Early College High School; 2/20/2023 10:00; Early College High School; 509379
+network outtage at Drayton Hall - reporting by Field tech Melissa Bryson no phones network FT cannot get anything either when there.; DHES- network outtage at Drayton Hall; 295994; Network engineer came out to school to resolve issue.; Drayton Hall Elementary; 3/27/2023 14:07; Drayton Hall Elementary; 521368
+network outtage at Drayton Hall - reporting by Field tech Melissa Bryson no phones network FT cannot get anything either when there.; DHES- network outtage at Drayton Hall; 295995; Bad network connection and device issues detected. Once devices were unplugged from the Core the network came back up. JC 03/27/23; Drayton Hall Elementary; 3/27/2023 14:04; Drayton Hall Elementary; 521368
+network down at jennie moore - orion shows red all over; JMES- network down at jennie moore; 296644; Worked with miles to diagnose and fix data loop found in Main TR. Disabled IPV6 per miles. Christian Simmons was on site to verify that inbound and outbound calls PA and the internet is back up.; Jennie Moore Elementary; 3/30/2023 10:38; Jennie Moore Elementary; 522472
+network down at jennie moore - orion shows red all over; JMES- network down at jennie moore; 296643; NetOps completed upon arrival; Jennie Moore Elementary; 3/30/2023 8:42; Jennie Moore Elementary; 522472
+"west ashley CAS internet and phone are down - reported by Security
+
+***all down in Orion"; WCAS- west ashley CAS internet and phone; 297053; Issue was resolved prior to my arrival.; West Ashley CAS; 4/3/2023 7:48; West Ashley CAS; 523270
+"west ashley CAS internet and phone are down - reported by Security
+
+***all down in Orion"; WCAS- west ashley CAS internet and phone; 297054; Verified configuration match in Cloud tool to switches. JC 04/03/23; West Ashley CAS; 4/3/2023 7:47; West Ashley CAS; 523270
+"Caller reports that the internet is down across the Palmer Campus
+
+Segra Trouble Ticket# 722674
+Check ticket status at 10:34 with dispatch and no change."; ECHS- Campus-Wide Internet Down; 300382; Segra circuit is back up after repair. Perform site visit and Internet and is back up.; Early College High School; 5/1/2023 12:35; Early College High School; 529701
+Caller reports that the internet is down across the Palmer Campus; ECHS- Campus-Wide Internet Down; 300383; William was on site when I arrived. He found that it was an ISP issue. He and Miles are working with them to resolve the issue.; Early College High School; 5/1/2023 8:05; Early College High School; 529701
+procurement dept at bridgeview - no phones internet red nodes in Orion at this moment; BVUE- procurement dept at bridgiview - no phones no internet; 303807; A switch was down in the 2nd floor data closet. A reboot resolved the switch issue.; Bridgeview; 5/22/2023 7:45; Bridgeview; 535948
+procurement dept at bridgeview - no phones internet red nodes in Orion at this moment; BVUE- procurement dept at bridgiview - no phones no internet; 303806; Issue solved upon arrival. Per miles in teams Pri 1 channel the issue has been resolved.; Bridgeview; 5/22/2023 7:04; Bridgeview; 535948
+Security called stating Angel oak had a power outtage and now their network and phones are not working after power restored; AOES- angel oak outage; 304671; Power and network are back up; Angel Oak Elementary; 5/26/2023 9:16; Angel Oak Elementary; 537410
+Security called stating Angel oak had a power outtage and now their network and phones are not working after power restored; AOES- angel oak outage; 304672; School had a power outage.   TRs powered back up once power was restored.; Angel Oak Elementary; 5/26/2023 8:42; Angel Oak Elementary; 537410
+network and phone lines down - procurement office records and archives dept; BVUE- network and phone lines down - procurement records and archives; 304978; Rebooted switches to restore connection. Will continue to look for root cause of disruption in service.; Bridgeview; 5/30/2023 7:55; Bridgeview; 537851
+network and phone lines down - procurement office records and archives dept; BVUE- network and phone lines down - procurement records and archives; 304977; Issue solved upon arrival. Miles had already fixed issue before I arrived.; Bridgeview; 5/30/2023 7:01; Bridgeview; 537851
+network outtage - minnie hughes is experiencing network outtage at this time; MHES- network outtage minnie hughs; 305025; Located defective ups in MTR. Installed a new unit until a replacement arrives. Powered up down devices on new ups for Ciena box internet circuit Segra internet circuit and EPS4000 power. Network has been restored; Minnie Hughes Elementary; 5/30/2023 11:36; Minnie Hughes Elementary; 537914
+network outtage - minnie hughes is experiencing network outtage at this time; MHES- network outtage minnie hughs; 305024; With help of network team found two rows in panel stack off removed those plugged and reset in open outlets. Panel restarted to resolve.; Minnie Hughes Elementary; 5/30/2023 9:52; Minnie Hughes Elementary; 537914
+"Network outage reported school wide
+At&t ticket open and Miles / Joshua are aware.
+
+Kimberly Wright  called from the school noting the network is still down."; JEES- Network outage reported school wide; 308641; At&t was able to complete the repair to fiber connections; Jane Edwards Elementary; 6/7/2023 14:48; Jane Edwards Elementary; 541427
+"Network outage reported school wide
+At&t ticket open and Miles / Joshua are aware.
+
+Kimberly Wright  called from the school noting the network is still down."; JEES- Network outage reported school wide; 308640; netops has someone on site waiting for ATT tech; Jane Edwards Elementary; 6/7/2023 9:14; Jane Edwards Elementary; 541427
+"no network at this time at SAMS campus - Dist 10 area on Orion - SAMS is red.
+
+No network and phones are down as well"; SAMS- network out at SAMS campus; 308647; Power was lost to the Wireless Controller and the backup power supply was found in the switched off position. At this time all nodes are up and Wireless and Network functionality are both operational. JC 06/07/23; St. Andrew's (SAMS) Middle; 6/7/2023 9:10; St. Andrew's (SAMS) Middle; 541715
+"no network at this time at SAMS campus - Dist 10 area on Orion - SAMS is red.
+
+No network and phones are down as well"; SAMS- network out at SAMS campus; 308646; Verified all users back online after outage. Worked with Netops after they completed repair.; St. Andrew's (SAMS) Middle; 6/7/2023 9:04; St. Andrew's (SAMS) Middle; 541715
+"Server will not power back on. 
+
+network is down phones as well"; JBEE- network is down phones as well; 309126; Restarted server per directions of netops.; James B Edwards Elementary; 6/8/2023 13:08; James B Edwards Elementary; 542408
+network is down phones as well; JBEE- network is down phones as well; 309033; Power issue was reported by field tech. AD server onsite is still down. Created a task for the server team; James B Edwards Elementary; 6/8/2023 12:38; James B Edwards Elementary; 542408
+network is down phones as well; JBEE- network is down phones as well; 309095; Server iLO will not load. Server host booted without issues. Need to open support case with HPE for iLO replacement.; James B Edwards Elementary; 6/8/2023 12:22; James B Edwards Elementary; 542408
+network is down phones as well; JBEE- network is down phones as well; 309032; Electricial issue was resolved fixing the wifi and phones; James B Edwards Elementary; 6/8/2023 10:39; James B Edwards Elementary; 542408
+"Sullivan's Island network out 
+
+Called in from front office - she states that she was online and then got a weird network message and then nothing at all.  She has received other reports as well throughout"; SIES- Sullivan's Island network out; 310190; Showed up to SIES to ensure network connection; Sullivan's Island Elementary; 6/20/2023 11:58; Sullivan's Island Elementary; 544797
+"Sullivan's Island network out 
+
+Called in from front office - she states that she was online and then got a weird network message and then nothing at all.  She has received other reports as well throughout"; SIES- Sullivan's Island network out; 310191; At&t resolved the issue with Sullivan's Island WAN; Sullivan's Island Elementary; 6/20/2023 11:21; Sullivan's Island Elementary; 544797
+Network is down at deer park Orion is showing all red. User confirmed multiple locations as well.; DP- Network and phones down; 310739; Power was restored to the MTR and the network came back up.; Deer Park Middle; 6/28/2023 14:12; Deer Park Middle; 546296
+Network is down at deer park Orion is showing all red. User confirmed multiple locations as well.; DP- Network and phones down; 310738; Issue is electrical. Portions of the Gymnasium (where MTR is located) Power are offline. Per Miles Keener the electricians are working on the issue and would be back up today. Relayed this information to principal.; Deer Park Middle; 6/27/2023 12:01; Deer Park Middle; 546296
+"No network connection via Wired and wireless through out the building.
+
+Telephones are down as well.
+
+Customer reports that someone went out to the building on yesterday to check on this issue however the issue arose again.
+
+Node is red in Orion for Building  1005"; BVUE- Network outage; 311276; Performed a reboot of the network switch in TR5 after I was unable to access it via serial cable for diagnostic purposes. Confirmed after reboot with staff that phones and internet are back up.; Bridgeview; 7/6/2023 7:31; Bridgeview; 547845
+"No network connection via Wired and wireless through out the building.
+
+Telephones are down as well.
+
+Customer reports that someone went out to the building on yesterday to check on this issue however the issue arose again.
+
+Node is red in Orion for Building  1005"; BVUE- Network outage; 311275; Verified switch was up and running and that the room was not too hot. William arrived and power cycled the switch and then verified system functionality after switch was back up.; Bridgeview; 7/6/2023 7:29; Bridgeview; 547845
+"The network is down and phones are down.
+
+Orion is showing RED for Minnie Hughes."; MHES- Network outage; 312010; Network equipment was power cycled prior to arrival. Judging on behavior of other schools going down it would likely have been an OSPF issue that a circuit port reset would have fixed.; Minnie Hughes Elementary; 7/19/2023 11:35; Minnie Hughes Elementary; 550173
+"The network is down and phones are down.
+
+Orion is showing RED for Minnie Hughes."; MHES- Network outage; 312009; powercycled main TR to restore in internet and wifi; Minnie Hughes Elementary; 7/19/2023 9:34; Minnie Hughes Elementary; 550173
+"is reporting network issues at Ellington. Caller spoke with multiple users all reporting network loss 
+Had caller  ping 80.80.80.80 
+she's getting 100% packet loss. EB Ellington is fully red in Orion (See attached image)"; EBES- Network connection outage at E B Ellington; 312004; Network equipment was power cycled prior to arrival. Judging on behavior of other schools going down it would likely have been an OSPF issue that a circuit port reset would have fixed.; E B Ellington Elementary; 7/19/2023 11:36; E B Ellington Elementary; 550189
+"is reporting network issues at Ellington. Caller spoke with multiple users all reporting network loss 
+Had caller  ping 80.80.80.80 
+she's getting 100% packet loss. EB Ellington is fully red in Orion (See attached image)"; EBES- Network connection outage  at E B Ellington; 312005; power cycled all devices in main TR to restore; E B Ellington Elementary; 7/19/2023 8:54; E B Ellington Elementary; 550189
+"Phones/Network are down for St. James-Santee Elementary. All nodes are showing down on Orion.
+
+- Performed site visit and located issue with internet circuit. Reported issue to Segra and AT&T
+
+ St James Santee   AT&T Ticket# NG026990   
+ St James Santee    Segra Ticket# 765679"; SJSE- Phones/Network are down for St. James-Santee Elementary.; 312730; Phones and internet are back up after Segra has restored service.. all nodes are up on Orion for this site; St. James-Santee Elementary; 7/28/2023 11:25; St. James-Santee Elementary; 551622
+Phones/Network are down for St. James-Santee Elementary. All nodes are showing down on Orion.; SJSE- Phones/Network are down for St. James-Santee Elementary.; 312732; Spoke to William White. The segra circuit is down Being reported to the service provider.; St. James-Santee Elementary; 7/27/2023 13:41; St. James-Santee Elementary; 551622
+"Phones at Mount Zion Elementary are not transmitting audio when calling out. No one able to hear. Believed to be down for the entire school. Reported by security. When I called the front desk number  (843) 559-3841 we were both able to hear each other but the audio was very choppy. Also the *98 feature to pick up other incoming calls does not work anymore. Reported by Myrna Murrell.
+
+Myrna called back and stated that the phones are still not working. They are experiencing the same issues they were earlier."; MZES- Mount Zion Elementary Phones Not Working - Reopening Myrna Called Back; 313507; Called and talked with Myrna and she said the calls are doing great today.; Mt. Zion Elementary; 8/8/2023 9:51; Mt. Zion Elementary; 553091
+Phones at Mount Zion Elementary are not transmitting audio when calling out. No one able to hear. Believed to be down for the entire school. When I called the front desk number  (843) 559-3841 we were both able to hear each other but the audio was very choppy. Reported by security.; MZES- Mount Zion Elementary Phones Not Working; 313428; Called customer on another phone in the front office.   Had her unplug/plug the phone and it is working now.  Tested *98 and it's working too.; Mt. Zion Elementary; 8/7/2023 10:48; Mt. Zion Elementary; 553091
+"User states Jennie Moores network connection and the phone system are down they are unsure if they can make or receive calls. No one is able to connect to the network and Orion is showing the vast majority of nodes as down.
+The phones and network are down school-wide."; JMES- User states Jennie Moores network connection and the phone system are down; 313667; Issue was frozen promethean board flooding the network closet with bad traffic. Confirmed that router is now running better and that service was restored yesterday. JC 08/09/23; Jennie Moore Elementary; 8/9/2023 13:23; Jennie Moore Elementary; 553537
+"User states Jennie Moores network connection and the phone system are down they are unsure if they can make or receive calls. No one is able to connect to the network and Orion is showing the vast majority of nodes as down.
+The phones and network are down school-wide."; JMES- User states Jennie Moores network connection and the phone system are down; 313666; Phones and internet are working; Jennie Moore Elementary; 8/9/2023 8:27; Jennie Moore Elementary; 553537
+Leslie Hargrove Security at Burke called to inform us that the Assistant Principal Alan Smith reported phones and network are down. Not able to receive calls or access the internet at all. I tried calling the secretary and the school counselors office and both went straight to voicemail.; BHS- Network and Phone Outage; 314983; Temporary disabled the Comcast link.   The router was bypassing the AT&T circuit for it.  School said they are up & running.; Burke High; 8/17/2023 12:28; Burke High; 556838
+Leslie Hargrove Security at Burke called to inform us that the Assistant Principal Alan Smith reported phones and network are down. Not able to receive calls or access the internet at all. I tried calling the secretary and the school counselors office and both went straight to voicemail.; BHS- Network and Phone Outage; 314988; Netops was able to restore the router configuration before I was able to arrive. Was told Burke is up and running again.; Burke High; 8/17/2023 11:52; Burke High; 556838
+User called in to report that internet and phones are down school-wide. All red in Orion. They haven't had any recent power outages.; CEWN- Phones and Internet Not Working; 316016; The Backup Circuit kicked in and a power cycle of the Primary Ciena box fixed the Primary circuit. The school is now going through the Primary circuit. JC 08/22/23; C E Williams North; 8/22/2023 8:02; C E Williams North; 559011
+User called in to report that internet and phones are down school-wide. All red in Orion. They haven't had any recent power outages.; CEWN- Phones and Internet Not Working; 316015; A ticket has been submitted to AT&T to have the primary circut reestablished.; C E Williams North; 8/22/2023 7:49; C E Williams North; 559011
+No Phones and Internet School wide.; AOES- Network Outage; 316968; Disabled main circuit port while AT&T repaired a broken fiber due to the installation of a new traffic light. Reactivated the main circuit port after receiving notification that the service was restored on AT&T's end. JC 08/24/23; Angel Oak Elementary; 8/24/2023 9:06; Angel Oak Elementary; 560754
+No Phones and Internet School wide.; AOES- Network Outage; 316971; A ticket has been submitted to AT&T to have the primary circut reestablished; Angel Oak Elementary; 8/24/2023 7:06; Angel Oak Elementary; 560754
+"reporting that St James Santee's phone and internet is down caller was notified over their emergency phone
+
+Performed site and verified that segra is having an area outage. 9/26/2023"; SJSE- Reporting that St. James-Santee Elementary phone and internet is down; 326842; Internet services have been restored to the site by the vendor after the internet outage.; St. James-Santee Elementary; 9/28/2023 6:45; St. James-Santee Elementary; 577762
+reporting that St James Santee's phone and internet is down caller was notified over their emergency phone; SJSE- Reporting that St. James-Santee Elementary phone and internet is down; 326841; Sienna box has green lights from the fiber converter to the switch. Issue being reported to segra.; St. James-Santee Elementary; 9/26/2023 12:35; St. James-Santee Elementary; 577762
+"Internal extension calls are working (and the PA works but external calls and outgoing calls are not working. 
+
+Confirmed with principal and by trying to call main line."; ECMS- No incoming outgoing calls for the entire building; 327874; Opened ticket with At&t and verified that system is able to receive calls after repairs were completed.; East Cooper Montessori; 10/2/2023 6:45; East Cooper Montessori; 579622
+"Internal extension calls are working (and the PA works but external calls and outgoing calls are not working. 
+
+Confirmed with principal and by trying to call main line."; ECMS- No incoming outgoing calls for the entire building; 327808; Rebooting phone system did not fix the line. Found DMARC from AT&T and supervisor opened ticket with AT&T to fix the issue. JC 09/29/23; East Cooper Montessori; 9/29/2023 15:44; East Cooper Montessori; 579622
+"Internal extension calls are working (and the PA works but external calls and outgoing calls are not working. 
+
+Confirmed with principal and by trying to call main line."; ECMS- No incoming outgoing calls for the entire building; 327885; Troubleshooting outage and opening AT&t trouble ticket; East Cooper Montessori; 9/29/2023 15:26; East Cooper Montessori; 579622
+Security received a radio call from St. James- Santee Phone and the internet is down.; SJSE- No network or Phones; 327910; Segra was able to complete repair of fiber break. WE have confirmed that the site is back up and operational .; St. James-Santee Elementary; 10/2/2023 15:17; St. James-Santee Elementary; 579760
+Security received a radio call from St. James- Santee Phone and the internet is down.; SJSE- No network or Phones; 327913; A section of fiber cabling has been damaged. Segra ticket 792400 and At&t ticket NG027087; St. James-Santee Elementary; 10/2/2023 10:06; St. James-Santee Elementary; 579760
+"Phones are down are down
+
+Calls can't be made out nor received in.
+
+Called the front office and received a busy signal.
+Opened AT&T ticket# 075436
+-10/5  Received an email for area manager stating that at this time testing has been completed. A technician has been assigned and set for dispatched out to your location at East cooper at 13:00. Forwarded the email to Billy koll who is the onsite contact."; ECMS- Phones are down are down; 328919; Received notification of services being restored from AT&T repairs. Verified this by calling the main number and talking to the front office staff.; East Cooper Montessori; 10/5/2023 17:05; East Cooper Montessori; 581176
+"Phones are down are down
+
+Calls cant be made out nor received in.
+
+Called the front office and received a busy signal
+
+10/4/2023 - Reported issue to AT&T Ticket# BR075436 called in by will white"; ECMS- Phones are down are down; 328882; Finally got issue reported with the correct circuit ID to the correct departmernt. Ticket#BR075436; East Cooper Montessori; 10/4/2023 15:23; East Cooper Montessori; 581176
+Network outtage; BA- Network outtage; 335565; Drove to Buist and found a UPS malfunctioning; Buist Academy; 11/6/2023 8:49; Buist Academy; 592170
+Network outtage; BA- Network outtage; 335567; Went to buist and verified that the network was back up and running; Buist Academy; 11/6/2023 8:44; Buist Academy; 592170
+"Lynette Flagg is reporting that all the phones and the WIFI is out throughout the entire school 
+Had caller ping 80.80.80.80. but it failed 
+Unable to find the host 
+5 nodes are down in orion"; SIES- Sullivans Island Elementary phones and network are down; 337129; Discovered loop and had to reboot network switches for them to recover as they were hung. Drove to site and tested network to ensure that all was well.; Sullivan's Island Elementary; 11/15/2023 9:54; Sullivan's Island Elementary; 594840
+"Lynette Flagg is reporting that all the phones and the WIFI is out throughout the entire school 
+Had caller ping 80.80.80.80. but it failed 
+Unable to find the host 
+5 nodes are down in orion"; SIES- Sullivans Island Elementary phones and network are down; 337364; Replaced FSR switch to bring up the cameras in the school.; Sullivan's Island Elementary; 11/15/2023 7:04; Sullivan's Island Elementary; 594840
+"Lynette Flagg is reporting that all the phones and the WIFI is out throughout the entire school 
+Had caller ping 80.80.80.80. but it failed 
+Unable to find the host 
+5 nodes are down in orion"; SIES- Sullivans Island Elementary phones and network are down; 337134; Checked with Ian to see if I could help and he said no; Sullivan's Island Elementary; 11/14/2023 10:13; Sullivan's Island Elementary; 594840
+"Lost of Phones and network throughout the entire school Orion is showing RED for Buist Aca.
+
+The TR closet on the first is alarming."; BA- Network Lost.; 337440; Will white resolved issue replaced power for switches; Buist Academy; 11/15/2023 10:52; Buist Academy; 595306
+"Lost of Phones and network throughout the entire school Orion is showing RED for Buist Aca.
+
+The TR closet on the first is alarming."; BA- Network Lost.; 337436; Replaced defective Eaton ATS switch in MTR. Verified incoming and outgoing calls. Verified all AP and access control devices are up as well.; Buist Academy; 11/15/2023 10:45; Buist Academy; 595306
+"Multiple phones and computers do not seem to be getting any network connection. User calling is in room 106 but the room next door room 105 it does not seem to be happening they have a network connection on their phone computer and phone. So does not seem to be all of the school but user is getting multiple reports from teachers and the front office.
+
+Connected to Access_Secure it is saying no internet connection.
+Pinging 80.80.80.80 - all packets were lost
+IP address saying 169.254.48.60
+
+Called the schools main number and when selecting to connect to the front office it will ring then disconnects."; DHES- Network and Phones down for portion of school; 338219; Issue resolved by Netops. Checked to make sure calls went through to front office; Drayton Hall Elementary; 11/27/2023 9:39; Drayton Hall Elementary; 596613
+"Multiple phones and computers do not seem to be getting any network connection. User calling is in room 106 but the room next door room 105 it does not seem to be happening they have a network connection on their phone computer and phone. So does not seem to be all of the school but user is getting multiple reports from teachers and the front office.
+
+Connected to Access_Secure it is saying no internet connection.
+Pinging 80.80.80.80 - all packets were lost
+IP address saying 169.254.48.60
+
+Called the schools main number and when selecting to connect to the front office it will ring then disconnects."; DHES- Network and Phones down for portion of school; 338220; Reloaded switch stack removed problem backup power cables during reload and replaced copper cables with fiber to complete the 20G link. Tech verified that the front phone line is working. JC 11/27/23; Drayton Hall Elementary; 11/27/2023 9:37; Drayton Hall Elementary; 596613
+"Security reports Phone and Network Outage School wide for Cooper River CAS
+
+Report came via Radio."; CRC- Phone and Network Outage Schoolwide; 339589; Issue was coming out of TR4 a few network devices were flooding the network and a reboot and port cycle stabilized the connections. Reloaded both MTR and TR4 and removed the EPS cables to prevent future Hardware errors. Verified that the CPU on both the MTR and TR4 are now back to 1% normal. JC 12/04/23; Bridgeview; 12/4/2023 10:40; Cooper River CAS (N Chas); 599098
+"Security reports Phone and Network Outage School wide for Cooper River CAS
+
+Report came via Radio."; CRC- Phone and Network Outage Schoolwide; 339598; Prior to Josh Chavis arrival at school verified all TR switches showed activity and that issue pertained to DHCP as both WiFi and Ethernet were returning APIPA addresses. Task being handled by NetOps; Cooper River CAS (N Chas); 12/4/2023 10:38; Cooper River CAS (N Chas); 599098
+User received a report from Mt. Zion that their phones and internet are down. All nodes are red in Orion. I tried to call the front desk phone at Mt. Zion and got a message that my call could not be completed at this time.; MZES- Phones and Internet Down Schoolwide; 340882; Both APC UPSs in the MTR were in Alarm with Event Code P.05 and had to be reset.; Bridgeview; 12/11/2023 13:28; Mt. Zion Elementary; 601327
+User received a report from Mt. Zion that their phones and internet are down. All nodes are red in Orion. I tried to call the front desk phone at Mt. Zion and got a message that my call could not be completed at this time.; MZES- Phones and Internet Down Schoolwide; 340881; Principal stated Network and cameras are back up; Bridgeview; 12/11/2023 11:26; Mt. Zion Elementary; 601327
+Per security pinehurst has no phones/internet; PIES- Per security pinehurst has no phones/internet; 341592; Pinehust is back up. The core has been rebooted; Pinehurst Elementary; 12/14/2023 11:06; Pinehurst Elementary; 602584
+Per security pinehurst has no phones/internet; PIES- Per security pinehurst has no phones/internet; 341591; Ok upon arrival; Pinehurst Elementary; 12/14/2023 10:23; Pinehurst Elementary; 602584
